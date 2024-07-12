@@ -1,4 +1,4 @@
-// AHB to APG Bridge | Maven Silicon
+// AHB to APB Bridge | Maven Silicon
 //
 //
 //
